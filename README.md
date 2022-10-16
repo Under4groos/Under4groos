@@ -1,5 +1,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Under4groos&layout=compact&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
-#Макс Титов
-#Более 100 репозиториев!
-#Продажа ПО
+<ul>
+  <li>Макс Титов</li>
+  <li>Более 100 репозиториев!</li>
+  <li>Продажа ПО</li>
+</ul>
+ 

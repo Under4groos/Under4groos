@@ -3,6 +3,7 @@
 <ul>
   <li>Главное не обосраться во время написания кода</li>
   <li>Любитель писать код ночью </li>
-  <li>https://under4groos.github.io/</li> 
+  <li>https://under4groos.github.io/SmdCompile.View/</li> 
+  <li>https://t.me/SmdCompile</li> 
 </ul>
  

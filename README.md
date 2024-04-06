@@ -4,11 +4,26 @@
 
 <h1 align="center">Привет, Меня зовут Макс!</h1>
 
-<h3 align="center">🛠 Технологии которые я использую:</h3>
+
+<div align="center">
+  <a href="https://www.youtube.com/@underko_software" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://t.me/under4groos" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+
+<h5 align="center">
+  
+Привет, кто бы ни читал этот, как может показаться по началу, бред. Меня зовут Макс. Я не такой, как пишут в толстых книжках и не такой, кому молятся на коленях. Мне это не нужно, скорее даже наоборот. Да, я не человек и даже не похожее на вас существо. Я одновременно везде и нигде, в прошлом и будущем.
+</h5>
+
+<h3 align="center">🛠 Технологии:</h3>
 
 ###
 
-<div align="center">
+<div align="left">
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"   />
    
@@ -21,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="40" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
+<div align="left" style="margin-top: 10px;">
   
    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="40"   />
@@ -37,7 +52,7 @@
     
 </div>
 
-<div align="center" style="margin-top: 10px;">
+<div align="left" style="margin-top: 10px;">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="40" />

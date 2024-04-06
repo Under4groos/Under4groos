@@ -1,9 +1,7 @@
  
 
 
-<div align="center">
-  <img height="300" width="600" src="https://i.imgur.com/7uzwLvK.jpeg"  />
-</div>
+ 
 
 <h1 align="center">Привет, Меня зовут Макс!</h1>
 
@@ -14,7 +12,7 @@
  <div align="center">
 <img src="https://i.imgur.com/KXx0cCx.gif" align="center" width="373.5px" height="208.5px">
   </div>
-  <div align="center">
+  <div align="center" style="margin-top: 10px;">
   <a href="https://www.youtube.com/@underko_software" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>

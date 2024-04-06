@@ -3,9 +3,9 @@
 [![][banner-url]][repo-url]  
 
 
-[logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg
-[repo-url]: https://daisyui.com/
-[banner-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/card-3.png
+[logo-url]:  https://i.imgur.com/vWtxID0.png
+[repo-url]: https://under4groos.github.io/SmdCompile.View/
+[banner-url]: https://i.imgur.com/vWtxID0.png
 
 
 

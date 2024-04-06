@@ -1,12 +1,4 @@
-<div align="center">
-
-  
-
-**Free Tailwind CSS Components**  
-[ [See all components ↗︎][repo-url] ]
-  
-
-</div>
+ 
 
 [![][banner-url]][repo-url]  
 

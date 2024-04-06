@@ -38,10 +38,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Under4groos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
  
-<ul>
-  <li>Главное не обосраться во время написания кода</li>
-  <li>Любитель писать код ночью </li>
-  <li>https://under4groos.github.io/SmdCompile.View/</li> 
-  <li>https://t.me/SmdCompile</li> 
-</ul>
+
  

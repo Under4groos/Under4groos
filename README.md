@@ -8,7 +8,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"   />
    
@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="40" />
 </div>
 
-<div align="left" style="margin-top: 10px;">
+<div align="center" style="margin-top: 10px;">
   
    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="40"   />
@@ -37,7 +37,7 @@
     
 </div>
 
-<div align="left" style="margin-top: 10px;">
+<div align="center" style="margin-top: 10px;">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="40" />

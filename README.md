@@ -8,6 +8,11 @@
  
 Привет, кто бы ни читал этот, как может показаться по началу, бред. Меня зовут Макс. Я не такой, как пишут в толстых книжках и не такой, кому молятся на коленях. Мне это не нужно, скорее даже наоборот. Да, я не человек и даже не похожее на вас существо. Я одновременно везде и нигде, в прошлом и будущем.
 </h5>
+
+<div align="center">
+ [![Discord Presence](https://lanyard.kyrie25.me/api/327469966192279552)](https://discord.com/users/327469966192279552)
+</div>
+
 <div align="center" style="margin-top: 10px;">
  <a href="https://www.youtube.com/@underko_software" target="_blank">
    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />

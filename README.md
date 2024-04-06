@@ -19,7 +19,7 @@
 
 
  <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://i.imgur.com/KXx0cCx.gif" align="center" width="373.5px" height="208.5px">
   </div>
   
 <h5 align="center">

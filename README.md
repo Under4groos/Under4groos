@@ -8,7 +8,13 @@
 <h1 align="center">Привет, Меня зовут Макс!</h1>
 
 
-<div align="center">
+
+
+
+ <div align="center">
+<img src="https://i.imgur.com/KXx0cCx.gif" align="center" width="373.5px" height="208.5px">
+  </div>
+  <div align="center">
   <a href="https://www.youtube.com/@underko_software" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
@@ -16,12 +22,6 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
-
-
- <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="center" width="373.5px" height="208.5px">
-  </div>
-  
 <h5 align="center">
   
 Привет, кто бы ни читал этот, как может показаться по началу, бред. Меня зовут Макс. Я не такой, как пишут в толстых книжках и не такой, кому молятся на коленях. Мне это не нужно, скорее даже наоборот. Да, я не человек и даже не похожее на вас существо. Я одновременно везде и нигде, в прошлом и будущем.

@@ -1,7 +1,5 @@
  
- <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
-  </div>
+
 
 <div align="center">
   <img height="300" width="600" src="https://i.imgur.com/7uzwLvK.jpeg"  />
@@ -19,6 +17,11 @@
   </a>
 </div>
 
+
+ <div align="center">
+<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+  </div>
+  
 <h5 align="center">
   
 Привет, кто бы ни читал этот, как может показаться по началу, бред. Меня зовут Макс. Я не такой, как пишут в толстых книжках и не такой, кому молятся на коленях. Мне это не нужно, скорее даже наоборот. Да, я не человек и даже не похожее на вас существо. Я одновременно везде и нигде, в прошлом и будущем.

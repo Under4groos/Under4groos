@@ -1,14 +1,5 @@
  
-
-[![][banner-url]][repo-url]  
-
-
-[logo-url]:  https://i.imgur.com/vWtxID0.png
-[repo-url]: https://under4groos.github.io/SmdCompile.View/
-[banner-url]: https://i.imgur.com/vWtxID0.png
-
-
-
+ 
 
 
 

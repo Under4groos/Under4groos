@@ -48,8 +48,8 @@
   <img src="https://skillicons.dev/icons?i=py" height="40"   />
  
   <img src="https://regex101.com/static/assets/icon-144.png" height="40"   />
- 
-    
+  
+  <img src="https://i.imgur.com/e8gkWOA.png" height="40"   />
 </div>
 
 <div align="left" style="margin-top: 10px;">

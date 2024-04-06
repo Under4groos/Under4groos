@@ -1,5 +1,6 @@
  
- 
+[![Discord Presence](https://lanyard.kyrie25.me/api/327469966192279552)](https://discord.com/users/327469966192279552)
+
 
 
 

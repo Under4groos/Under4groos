@@ -1,4 +1,4 @@
-<h1 align="left">Привет, Меня зовут Макс!</h1>
+<h1 align="left">Привет, меня зовут Макс!</h1>
 
 <div align="left">
 <img src="https://i.imgur.com/KXx0cCx.gif" align="center" width="373.5px" height="208.5px">

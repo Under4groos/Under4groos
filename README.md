@@ -28,7 +28,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://regex101.com/static/assets/favicon.ico" height="40" alt="python logo"  />
+  <img src="https://regex101.com/static/assets/icon-144.png" height="40" alt="python logo"  />
   <img width="12" />
  
 </div>

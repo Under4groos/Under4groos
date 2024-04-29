@@ -10,7 +10,7 @@
 </h5>
 
 [![Discord Presence](https://lanyard.kyrie25.me/api/327469966192279552?idleMessage=un-der-ko!)](https://discord.com/users/327469966192279552)
-[![Discord Presence](http://underko.ru/GitHub)](https://discord.com/users/327469966192279552)
+[![Discord Presence](dasadsads)](https://discord.com/users/327469966192279552)
 
 <div align="left" style="margin-top: 10px;">
  <a href="https://www.youtube.com/@underko_software" target="_blank">

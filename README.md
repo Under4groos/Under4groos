@@ -10,7 +10,7 @@
 </h5>
 
 [![Discord Presence](https://lanyard.kyrie25.me/api/327469966192279552?idleMessage=un-der-ko!)](https://discord.com/users/327469966192279552)
-[![Discord Presence](http://underko.ru/GitHub?name=UnderKo228&urlimage=https://i.imgur.com/vWBTJsJ.jpeg)](https://discord.com/users/327469966192279552)
+[![Discord Presence](http://underko.ru/GitHub?name=UnderKo228&urlimage=https://camo.githubusercontent.com/4362d71e08b5550747df26fc056b4099636575ad191e03c84ef203cb679cb1a4/68747470733a2f2f692e696d6775722e636f6d2f4b5878306343782e676966)](https://discord.com/users/327469966192279552)
 
 <div align="left" style="margin-top: 10px;">
  <a href="https://www.youtube.com/@underko_software" target="_blank">

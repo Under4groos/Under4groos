@@ -9,7 +9,7 @@
 Привет, кто бы ни читал этот, как может показаться по началу, бред. Меня зовут Макс. Я не такой, как пишут в толстых книжках и не такой, кому молятся на коленях. Мне это не нужно, скорее даже наоборот. Да, я не человек и даже не похожее на вас существо. Я одновременно везде и нигде, в прошлом и будущем.
 </h5>
 
-[![Discord Presence](http://underko.ru/GitHub?name=UnderKo228&urlimage=https://i.imgur.com/vWBTJsJ.jpeg&t=0)](https://discord.com/users/327469966192279552)
+[![Discord Presence](http://underko.ru/GitHub?name=UnderKo228&urlimage=https://i.imgur.com/vWBTJsJ.jpeg&a=0)](https://discord.com/users/327469966192279552)
 
 <div align="left" style="margin-top: 10px;">
  <a href="https://www.youtube.com/@underko_software" target="_blank">

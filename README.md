@@ -9,9 +9,10 @@
 Привет, кто бы ни читал этот, как может показаться по началу, бред. Меня зовут Макс. Я не такой, как пишут в толстых книжках и не такой, кому молятся на коленях. Мне это не нужно, скорее даже наоборот. Да, я не человек и даже не похожее на вас существо. Я одновременно везде и нигде, в прошлом и будущем.
 </h5>
 
+[![Discord Presence](http://underko.ru/GitHub?name=UnderKo228&urlimage=https://i.imgur.com/vWBTJsJ.jpeg)](https://discord.com/users/327469966192279552)
+ 
 [![Discord Presence](https://lanyard.kyrie25.me/api/327469966192279552?idleMessage=un-der-ko!)](https://discord.com/users/327469966192279552)
-[![Discord Presence]([http://underko.ru/GitHub?name=UnderKo228&urlimage=https://camo.githubusercontent.com/4362d71e08b5550747df26fc056b4099636575ad191e03c84ef203cb679cb1a4/68747470733a2f2f692e696d6775722e636f6d2f4b5878306343782e676966](http://underko.ru/GitHub?name=UnderKo228&urlimage=https://i.imgur.com/vWBTJsJ.jpeg))](https://discord.com/users/327469966192279552)
-
+ 
 <div align="left" style="margin-top: 10px;">
  <a href="https://www.youtube.com/@underko_software" target="_blank">
    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />

@@ -10,8 +10,7 @@
 </h5>
 
 [![Discord Presence](http://underko.ru/GitHub?name=UnderKo228&urlimage=https://i.imgur.com/vWBTJsJ.jpeg&t=0)](https://discord.com/users/327469966192279552)
-[![Discord Presence](http://underko.ru/GitHub?name=UnderKo228&urlimage=https://i.imgur.com/vWBTJsJ.jpeg)](https://discord.com/users/327469966192279552)
- 
+
 [![Discord Presence](https://lanyard.kyrie25.me/api/327469966192279552?idleMessage=un-der-ko!)](https://discord.com/users/327469966192279552)
  
 <div align="left" style="margin-top: 10px;">

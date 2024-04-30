@@ -11,8 +11,6 @@
 
 [![Discord Presence](http://underko.ru/GitHub?name=UnderKo228&urlimage=https://i.imgur.com/vWBTJsJ.jpeg&t=0)](https://discord.com/users/327469966192279552)
 
-[![Discord Presence](https://lanyard.kyrie25.me/api/327469966192279552?idleMessage=un-der-ko!)](https://discord.com/users/327469966192279552)
- 
 <div align="left" style="margin-top: 10px;">
  <a href="https://www.youtube.com/@underko_software" target="_blank">
    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />

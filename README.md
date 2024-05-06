@@ -9,7 +9,7 @@
 Привет, кто бы ни читал этот, как может показаться по началу, бред. Меня зовут Макс. Я не такой, как пишут в толстых книжках и не такой, кому молятся на коленях. Мне это не нужно, скорее даже наоборот. Да, я не человек и даже не похожее на вас существо. Я одновременно везде и нигде, в прошлом и будущем.
 </h5>
 
-[![Discord Presence](http://underko.ru/GitHub?username=UnderKo&detals=Древнее саого Деда из Ада. &userimagemini=https://i.imgur.com/U6r9cjo.png&userimage=https://i.imgur.com/OQX9OLn.png&userimagefull=https://i.imgur.com/OQX9OLn.png&smallImage=https://i.imgur.com/gjhDLMz.png&title=Ночью дрочит на котя)](https://discord.com/users/327469966192279552)
+[![Discord Presence](http://underko.ru/GitHub?username=UnderKo&detals=ТутБылUnderKo&userimagemini=https://i.imgur.com/U6r9cjo.png&userimage=https://i.imgur.com/OQX9OLn.png&userimagefull=https://i.imgur.com/OQX9OLn.png&smallImage=https://i.imgur.com/gjhDLMz.png)](https://discord.com/users/327469966192279552)
 
 
 
